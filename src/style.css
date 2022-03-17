@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo {
+    font-size: 36px;
+}
+.container {
+    width: 1300px;
+    margin: auto;
+    background-color: blue;
+}
+.list {
+    list-style: none;
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+}
